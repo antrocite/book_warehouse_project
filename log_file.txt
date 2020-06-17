@@ -1,0 +1,693 @@
+
+Opened log file
+
+		*** local : Sat Jan 11 23:58:11 2020
+:
+Declaring Books and Inv structs pointers
+Opening list_of_books.txt and warehouse_info.txt for reading
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 1
+Allocating memory for Book Code 1
+Inserting stringfield got : 1984
+Allocating memory for 1984
+Inserting stringfield got : George Orwell
+Allocating memory for George Orwell
+Inserting stringfield got : 2001
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 2
+Allocating memory for Book Code 2
+Inserting stringfield got : The Adventures of Huckleberry Finn
+Allocating memory for The Adventures of Huckleberry Finn
+Inserting stringfield got : Mark Twain
+Allocating memory for Mark Twain
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 3
+Allocating memory for Book Code 3
+Inserting stringfield got : The Adventures of Sherlock Holmes
+Allocating memory for The Adventures of Sherlock Holmes
+Inserting stringfield got : Arthur Conan Doyle
+Allocating memory for Arthur Conan Doyle
+Inserting stringfield got : 2003
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : The alchemist
+Allocating memory for The alchemist
+Inserting stringfield got : Paulo Coelho
+Allocating memory for Paulo Coelho
+Inserting stringfield got : 2001
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 5
+Allocating memory for Book Code 5
+Inserting stringfield got : The Aleph and Other Stories
+Allocating memory for The Aleph and Other Stories
+Inserting stringfield got : Jorge Luis Borges
+Allocating memory for Jorge Luis Borges
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 6
+Allocating memory for Book Code 6
+Inserting stringfield got : Animal Farm
+Allocating memory for Animal Farm
+Inserting stringfield got : George Orwell
+Allocating memory for George Orwell
+Inserting stringfield got : 2004
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 7
+Allocating memory for Book Code 7
+Inserting stringfield got : Aesopâ€™s Fables
+Allocating memory for Aesopâ€™s Fables
+Inserting stringfield got : Aesop
+Allocating memory for Aesop
+Inserting stringfield got : 2006
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : Aliceâ€™s Adventures in Wonderland
+Allocating memory for Aliceâ€™s Adventures in Wonderland
+Inserting stringfield got : Lewis Carroll
+Allocating memory for Lewis Carroll
+Inserting stringfield got : 2007
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 9
+Allocating memory for Book Code 9
+Inserting stringfield got : Anna Karenina
+Allocating memory for Anna Karenina
+Inserting stringfield got : Leo Tolstoy
+Allocating memory for Leo Tolstoy
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 10
+Allocating memory for Book Code 10
+Inserting stringfield got : Anne of the Green Gables
+Allocating memory for Anne of the Green Gables
+Inserting stringfield got : L Montgomery
+Allocating memory for L Montgomery
+Inserting stringfield got : 2008
+field got : 3.50
+field got : 10.70
+Declaring node Inv
+field got : 1
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 1
+field got : 10
+Declaring node Inv
+field got : 2
+field got : Book Code 6
+Allocating memory for Book Code 6
+Inserting stringfield got : 1
+field got : 20
+Declaring node Inv
+field got : 3
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 1
+field got : 7
+Declaring node Inv
+field got : 4
+field got : Book Code 2
+Allocating memory for Book Code 2
+Inserting stringfield got : 1
+field got : 11
+Declaring node Inv
+field got : 5
+field got : Book Code 5
+Allocating memory for Book Code 5
+Inserting stringfield got : 2
+field got : 10
+Declaring node Inv
+field got : 6
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 2
+field got : 1
+Declaring node Inv
+field got : 7
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : 3
+field got : 2
+Declaring node Inv
+field got : 8
+field got : Book Code 1
+Allocating memory for Book Code 1
+Inserting stringfield got : 3
+field got : 2
+Declaring node Inv
+field got : 9
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : 3
+field got : 1
+Declaring node Inv
+field got : 10
+field got : Book Code 10
+Allocating memory for Book Code 10
+Inserting stringfield got : 3
+field got : 1
+Closing list_of_books.txt and warehouse_info.txt
+Declaring temp pointer for linking
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+
+--------------------------------------------------
+Visible : Choose Your hero:
+Visible : 1.Display all data
+Visible : 2.Edit
+Visible : 3.Find book by author
+Visible : 4.Add book
+Visible : 5.Add inventory position
+Visible : 6.Remove book
+Visible : 6.Remove inventory position
+Visible : 0.Exit
+--------------------------------------------------
+Asking for integer
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:11 2020
+
+User inputs: `ã¿™
+Converted string is : `ã¿™
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:18 2020
+
+User inputs: 4
+Converted string is : 4
+Integer obtained : 4
+Declaring and allocating new node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Transfering to last node
+Attaching new node to list
+Filling the node
+Allocating memory for Book Code 11
+Inserting stringRemoving null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:20 2020
+
+User inputs: New title
+Converted string is : New Title
+Allocating memory for New Title
+Inserting stringRemoving null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:37 2020
+
+User inputs: new author
+Converted string is : New Author
+Allocating memory for New Author
+Inserting stringRemoving null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:41 2020
+
+User inputs: 2020
+Converted string is : 2020
+Integer obtained : 2020
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:43 2020
+
+User inputs: 10.5
+Converted string is : 10.5
+Double value obtained: 10.500000
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sat Jan 11 23:58:49 2020
+
+User inputs: 15.5.5
+Converted string is : 15.5.5
+Visible : Not a value and/or toOpened log file
+
+		*** local : Sun Jan 12 00:00:26 2020
+:
+Declaring Books and Inv structs pointers
+Opening list_of_books.txt and warehouse_info.txt for reading
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 1
+Allocating memory for Book Code 1
+Inserting stringfield got : 1984
+Allocating memory for 1984
+Inserting stringfield got : George Orwell
+Allocating memory for George Orwell
+Inserting stringfield got : 2001
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 2
+Allocating memory for Book Code 2
+Inserting stringfield got : The Adventures of Huckleberry Finn
+Allocating memory for The Adventures of Huckleberry Finn
+Inserting stringfield got : Mark Twain
+Allocating memory for Mark Twain
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 3
+Allocating memory for Book Code 3
+Inserting stringfield got : The Adventures of Sherlock Holmes
+Allocating memory for The Adventures of Sherlock Holmes
+Inserting stringfield got : Arthur Conan Doyle
+Allocating memory for Arthur Conan Doyle
+Inserting stringfield got : 2003
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : The alchemist
+Allocating memory for The alchemist
+Inserting stringfield got : Paulo Coelho
+Allocating memory for Paulo Coelho
+Inserting stringfield got : 2001
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 5
+Allocating memory for Book Code 5
+Inserting stringfield got : The Aleph and Other Stories
+Allocating memory for The Aleph and Other Stories
+Inserting stringfield got : Jorge Luis Borges
+Allocating memory for Jorge Luis Borges
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 6
+Allocating memory for Book Code 6
+Inserting stringfield got : Animal Farm
+Allocating memory for Animal Farm
+Inserting stringfield got : George Orwell
+Allocating memory for George Orwell
+Inserting stringfield got : 2004
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 7
+Allocating memory for Book Code 7
+Inserting stringfield got : Aesopâ€™s Fables
+Allocating memory for Aesopâ€™s Fables
+Inserting stringfield got : Aesop
+Allocating memory for Aesop
+Inserting stringfield got : 2006
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : Aliceâ€™s Adventures in Wonderland
+Allocating memory for Aliceâ€™s Adventures in Wonderland
+Inserting stringfield got : Lewis Carroll
+Allocating memory for Lewis Carroll
+Inserting stringfield got : 2007
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 9
+Allocating memory for Book Code 9
+Inserting stringfield got : Anna Karenina
+Allocating memory for Anna Karenina
+Inserting stringfield got : Leo Tolstoy
+Allocating memory for Leo Tolstoy
+Inserting stringfield got : 2002
+field got : 3.50
+field got : 10.70
+Declaring node Books
+Parsing the line of Books struct: 
+field got : Book Code 10
+Allocating memory for Book Code 10
+Inserting stringfield got : Anne of the Green Gables
+Allocating memory for Anne of the Green Gables
+Inserting stringfield got : L Montgomery
+Allocating memory for L Montgomery
+Inserting stringfield got : 2008
+field got : 3.50
+field got : 10.70
+Declaring node Inv
+field got : 1
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 1
+field got : 10
+Declaring node Inv
+field got : 2
+field got : Book Code 6
+Allocating memory for Book Code 6
+Inserting stringfield got : 1
+field got : 20
+Declaring node Inv
+field got : 3
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 1
+field got : 7
+Declaring node Inv
+field got : 4
+field got : Book Code 2
+Allocating memory for Book Code 2
+Inserting stringfield got : 1
+field got : 11
+Declaring node Inv
+field got : 5
+field got : Book Code 5
+Allocating memory for Book Code 5
+Inserting stringfield got : 2
+field got : 10
+Declaring node Inv
+field got : 6
+field got : Book Code 8
+Allocating memory for Book Code 8
+Inserting stringfield got : 2
+field got : 1
+Declaring node Inv
+field got : 7
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : 3
+field got : 2
+Declaring node Inv
+field got : 8
+field got : Book Code 1
+Allocating memory for Book Code 1
+Inserting stringfield got : 3
+field got : 2
+Declaring node Inv
+field got : 9
+field got : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringfield got : 3
+field got : 1
+Declaring node Inv
+field got : 10
+field got : Book Code 10
+Allocating memory for Book Code 10
+Inserting stringfield got : 3
+field got : 1
+Closing list_of_books.txt and warehouse_info.txt
+Declaring temp pointer for linking
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+
+--------------------------------------------------
+Visible : Choose Your hero:
+Visible : 1.Display all data
+Visible : 2.Edit
+Visible : 3.Find book by author
+Visible : 4.Add book
+Visible : 5.Add inventory position
+Visible : 6.Remove book
+Visible : 6.Remove inventory position
+Visible : 0.Exit
+--------------------------------------------------
+Asking for integer
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:26 2020
+
+User inputs: `w´€­
+Converted string is : `w´€­
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:30 2020
+
+User inputs: 5
+Converted string is : 5
+Integer obtained : 5
+Declaring and allocating new node
+Attaching new node to end of the list
+Visible : Enter book code for the new position:
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:31 2020
+
+User inputs: book code 16
+Converted string is : Book Code 16
+Visible : There are no books with such code, try another one
+Visible : Enter book code for the new position:
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:35 2020
+
+User inputs: book code 4
+Converted string is : Book Code 4
+Allocating memory for Book Code 4
+Inserting stringVisible : Enter shelf number of the position
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:38 2020
+
+User inputs: 6
+Converted string is : 6
+Integer obtained : 6
+Visible : Enter stock value of the position
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:41 2020
+
+User inputs: 11
+Converted string is : 11
+Integer obtained : 11
+Declaring temp pointer for linking
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+Reallocating array of pointers in struct books to Inv structs
+Assigning related Inv nodes to array in Books
+
+--------------------------------------------------
+Visible : Choose Your hero:
+Visible : 1.Display all data
+Visible : 2.Edit
+Visible : 3.Find book by author
+Visible : 4.Add book
+Visible : 5.Add inventory position
+Visible : 6.Remove book
+Visible : 6.Remove inventory position
+Visible : 0.Exit
+--------------------------------------------------
+Asking for integer
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:00:44 2020
+
+User inputs: 6
+Converted string is : 6
+Integer obtained : 6
+Visible : Enter the code of the book You would like to remove:
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:01:05 2020
+
+User inputs: book code 2
+Converted string is : Book Code 2
+Searching for related book
+Searching for related book
+Related book found
+Excluding the related node from list
+Freeing array of pointers to Inv node in Books node
+Freeing Books node
+
+--------------------------------------------------
+Visible : Choose Your hero:
+Visible : 1.Display all data
+Visible : 2.Edit
+Visible : 3.Find book by author
+Visible : 4.Add book
+Visible : 5.Add inventory position
+Visible : 6.Remove book
+Visible : 6.Remove inventory position
+Visible : 0.Exit
+--------------------------------------------------
+Asking for integer
+Removing null terminator from buffer
+Getting input from user
+
+		***  local : Sun Jan 12 00:01:14 2020
+
+User inputs: 0
+Converted string is : 0
+Integer obtained : 0
+Opening BooksFile and InvFile for writing
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Books
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Writing node Inv
+Closing Books file and Inv file
+Declaring temp pointers to Books and Inv head nodes
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing strings in Books node
+Freeing node Books
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+Freeing string in node Inv
+Freeing node Inv
+
+
+
+		***
+PROGRAM ENDS SUCCESSFULLY
+EXITING PROGRAM
+		***
+
+
+
+
